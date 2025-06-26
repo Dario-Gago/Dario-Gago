@@ -29,7 +29,7 @@
 - 🌱Me gusta el más el backend.
 
 <div align="center">
-  <h3>Mis habilidades</h3>
+  <h2>Mis habilidades</h2>
 </div>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
