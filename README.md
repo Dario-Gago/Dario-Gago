@@ -25,9 +25,6 @@
 
 <!--Intro start-->
 - 🔭 Aprendiendo JS.
-
-- 🌱Me gusta más el backend.
-
 <div align="center">
   <h2>Mis habilidades</h2>
 </div>
