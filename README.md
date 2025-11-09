@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=¡Hola+👋,+Soy+Darío!;Desarrollador+Full+Stack" alt="Título animado">
   
-  [![LinkedIn](https://img.shields.io/badge/Conéctate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-  [![GitHub](https://img.shields.io/badge/Portafolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-  
-  ---
+
   
   ### 🛠️ Tecnologías y Herramientas
   
