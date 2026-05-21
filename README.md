@@ -6,9 +6,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Construyo+interfaces+bonitas+%F0%9F%8E%A8;y+backends+robustos+%E2%9A%99%EF%B8%8F;siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=2563EB&label=visitas)
 
 </div>
 
@@ -36,20 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dario-Gago&show_icons=true&theme=tokyonight&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=94a3b8&bg_color=0f172a" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=2563EB&text_color=94a3b8&bg_color=0f172a" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dario-Gago&theme=tokyonight&hide_border=true&ring=2563EB&fire=7c3aed&currStreakLabel=2563EB&background=0f172a)
-
-</div>
-
----
 
 ### 📬 Contacto
 
