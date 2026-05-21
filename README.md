@@ -35,15 +35,6 @@
 
 
 
-### 📬 Contacto
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://TU_WEB.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=footer" />
