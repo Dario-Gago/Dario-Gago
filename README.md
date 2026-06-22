@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header&text=Darío&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descColor=bfdbfe" />
-
-
-
-</div>
 
 ---
 
