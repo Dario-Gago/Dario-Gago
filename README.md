@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header&text=Darío&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descColor=bfdbfe" />
 
-<br/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Construyo+interfaces+bonitas+%F0%9F%8E%A8;y+backends+robustos+%E2%9A%99%EF%B8%8F;siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)
 
 
 </div>
