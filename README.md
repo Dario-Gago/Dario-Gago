@@ -1,6 +1,3 @@
-
----
-
 ### 🧰 Stack tecnológico
 
 <div align="center">
